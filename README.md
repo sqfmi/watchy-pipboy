@@ -1,2 +1,4 @@
 # watchy-pipboy
-Pipboy watchface for Watchy
+Pip-Boy watchface for Watchy
+
+![screenshot](./screenshot.png)
